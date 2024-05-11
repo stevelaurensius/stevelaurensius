@@ -1,6 +1,6 @@
 # Hey There! 👋
 
-**I'm Steven. But people know me as Steve Laurensius.** - I'm a IT System Analyst, UX Designer, Cyber Security Auditor, and Python Developer in the making based in the Special Region of Yogyakarta, Indonesia. I'm interested in cyber security and software development!
+**I'm Steven. But people know me as Steve Laurensius.** - I'm a IT System Analyst, Cyber Security Auditor, UX Designer, and Python Developer in the making - based in the Special Region of Yogyakarta, Indonesia. I'm interested in cyber security and software development!
 
 
 <h2>My Badges</h2>
