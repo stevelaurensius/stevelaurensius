@@ -1,4 +1,4 @@
-<h1 align="center">Hi, my name is Steven and people usually knew me as Steve Laurensius</h1>
+<h1 align="center">Hi, my name is Steven and people knew me as Steve Laurensius</h1>
 
 To see all the other badges are [here](https://www.credly.com/users/steve.laurensius/badges)
 <!--START_SECTION:badges-->
