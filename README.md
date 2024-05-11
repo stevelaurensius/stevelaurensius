@@ -8,3 +8,4 @@
 [![Cybersecurity Fundamentals](https://images.credly.com/size/110x110/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)](https://www.credly.com/badges/e7991bad-296f-4126-96f6-4fa7cdada46d "Cybersecurity Fundamentals")
 <!--END_SECTION:badges-->
 To see all the other badges are [here](https://www.credly.com/users/steve.laurensius/badges)
+<h2>My Badges</h2>
