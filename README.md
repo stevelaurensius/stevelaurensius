@@ -8,4 +8,3 @@
 [![Open Source Software Development, Linux and Git Specialization](https://images.credly.com/size/110x110/images/a8e890b4-d484-4e04-b521-fba516a8c3cd/coursera-specialization-badge.png)](https://www.credly.com/badges/736b477a-ffc4-4511-b1cb-8880814d3b5c "Open Source Software Development, Linux and Git Specialization")
 [![Cybersecurity Fundamentals](https://images.credly.com/size/110x110/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)](https://www.credly.com/badges/e7991bad-296f-4126-96f6-4fa7cdada46d "Cybersecurity Fundamentals")
 <!--END_SECTION:badges-->
-To see all the other badges are [here](https://www.credly.com/users/steve.laurensius/badges)
