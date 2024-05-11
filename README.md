@@ -1,4 +1,4 @@
-<h1 align="center">Hi. I'm Steve Laurensius and you're looking at my github</h1>
+<h1 align="center">Hi. I'm Steven but known as Steve Laurensius</h1>
 
 To see all the other badges are [here](https://www.credly.com/users/steve.laurensius/badges)
 <!--START_SECTION:badges-->
