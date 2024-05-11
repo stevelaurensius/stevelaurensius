@@ -10,4 +10,4 @@
 <!--END_SECTION:badges-->
 
 To see all the other badges are [here](https://www.credly.com/users/steve.laurensius/badges)
-<h2>My Badges</h2>
+<h2>Skills</h2>
