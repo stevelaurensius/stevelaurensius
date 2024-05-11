@@ -1,5 +1,5 @@
 <h1 align="left">Hi. I'm Steven but known as Steve Laurensius</h1>
-<h2>My Badges </h2>
+<h2>My Badges</h2>
 
 <!--START_SECTION:badges-->
 [![Google Project Management Certificate](https://images.credly.com/size/110x110/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png)](https://www.credly.com/badges/b416a1a6-f425-4ede-950c-e8e60014ab9f "Google Project Management Certificate")
@@ -10,6 +10,6 @@
 <!--END_SECTION:badges-->
 
 To see all the other badges are [here](https://www.credly.com/users/steve.laurensius/badges)
-<h2>Skills</h2>
+<h2>Technologies I'm Using</h2>
 
-[![SkillIcons](https://skillicons.dev/icons?i=cloudflare,debian,js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://github.com/stevelaurensius)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=py,pycharm,vscode,debian,linux,github,ai,ps,docker,html,nginx,php,cloudflare,wordpress,grafana,discord)](https://github.com/stevelaurensius)<br/>
