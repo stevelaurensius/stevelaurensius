@@ -12,4 +12,4 @@
 To see all the other badges are [here](https://www.credly.com/users/steve.laurensius/badges)
 <h2>Skills</h2>
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://github.com/stevelaurensius)<br/>
