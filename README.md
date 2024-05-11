@@ -1,4 +1,4 @@
-<h1 align="left">Hi. I'm Steven but known as Steve Laurensius</h1>
+# Hey There! 👋
 <h2>My Badges</h2>
 
 <!--START_SECTION:badges-->
